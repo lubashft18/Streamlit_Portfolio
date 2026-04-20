@@ -17,18 +17,17 @@ https://portfolio-antonioluba.streamlit.app
 •💻 Projects Page – Highlights the systems and applications I have developed, focusing on real-world and academic projects
 •📧 Contact Page – Allows users to reach out or connect with me
 
-📁 Project Structure
 portfolio_app/
 │
 ├── _💻Portfolio.py
-│
+├── image/
+├── pdf/
 └── pages/
     ├── 1_🏠_Home.py
     ├── 2_👤_About.py
     ├── 3_💪_Skills.py
     ├── 4_📁_Projects.py
     └── 5_📧_Contact.py
-    
 🎯 Purpose
 The main goal of this project is to:
 
