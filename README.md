@@ -10,17 +10,18 @@ The application is structured into multiple interactive pages, making it easy to
 💡 Skills Page – Displays my technical and soft skills
 📜 Certificates Page – Showcases certifications and achievements I have earned
 💻 Projects Page – Highlights the systems and applications I have developed, focusing on real-world and academic projects
-🎯 Purpose
 
+🎯 Purpose
 The main goal of this project is to:
 
 Demonstrate my ability to build multi-page web applications using Streamlit
 Present my personal and professional profile in a structured and interactive way
 Showcase my development projects, especially system-based applications
 Serve as a digital portfolio that reflects my journey and skills as a developer
+
 🛠️ Technologies Used
 Python
 Streamlit
-🚀 About Me
 
+🚀 About Me
 This portfolio represents me as a developer, highlighting my passion for creating systems and continuously improving my technical skills. It is designed not just as a requirement for a class activity, but also as a foundation for my professional portfolio in the future.
