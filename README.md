@@ -19,15 +19,26 @@ https://portfolio-antonioluba.streamlit.app
 
 portfolio_app/
 │
+## 📁 Project Structure
+
+```
+portfolio_app/
+│
 ├── _💻Portfolio.py
+│
 ├── image/
+│   └── (profile pictures, project images, assets)
+│
 ├── pdf/
+│   └── (certificates, documents, resume)
+│
 └── pages/
     ├── 1_🏠_Home.py
     ├── 2_👤_About.py
     ├── 3_💪_Skills.py
     ├── 4_📁_Projects.py
     └── 5_📧_Contact.py
+```
 🎯 Purpose
 The main goal of this project is to:
 
